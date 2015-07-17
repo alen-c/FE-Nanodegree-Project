@@ -1,5 +1,7 @@
 ## Project 0 for Project Nautilus ##
 
+Hi! I'm new here :)
+
 ###Instructions:
 
 0. index.html is an HTML file, which is a document that will be displayed as a website. Open it up in a text editor like Sublime Text to edit it, or open it in a browser like Google Chrome to see how it looks!
